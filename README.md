@@ -1,533 +1,339 @@
-<!-- ===================================================== -->
-<!--                ZOHAIB HAYAT GITHUB PROFILE            -->
-<!-- ===================================================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Zohaib Hayat</h1>
+# Zohaib Hayat
 
-<h3 align="center">
-Cyber Security Enthusiast • Digital Forensics • Cloud Security • Ethical Hacking
-</h3>
+### Cyber Security • Digital Forensics • Cloud Security
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Digital+Forensics+Learner;Cloud+Security+Learner;Ethical+Hacker;AWS+Security;Always+Learning+Something+New..." />
+<p>
+Cyber Security Enthusiast focused on Digital Forensics, Cloud Security, Web Application Security, and Security Research.
 </p>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast;Digital+Forensics+Learner;Cloud+Security+Learner;Security+Researcher;Always+Learning"/>
+
+<p>
 
 <a href="mailto:hayatzohaib443@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/zohaib-hayat-a13352347">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin">
 </a>
 
 <a href="https://tryhackme.com/p/ZohaibHayat">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme">
 </a>
 
 </p>
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat)
-
-</p>
+</div>
 
 ---
 
-# 💻 whoami
+## About Me
 
-```bash
-$ whoami
+I am a Computer Science student at **Air University Islamabad** with a strong interest in Cyber Security, Digital Forensics, Cloud Security, and Security Research.
 
-Name            : Zohaib Hayat
+My learning approach is practical. I regularly work with security labs, networking concepts, vulnerability assessment techniques, and web application testing while continuously expanding my knowledge in Digital Forensics and AWS.
 
-Role            : Cyber Security Enthusiast
-
-Location        : Islamabad, Pakistan
-
-Education       : BS Computer Science
-                  Air University Islamabad
-
-Focus Areas     :
-                 • Digital Forensics
-                 • Cloud Security
-                 • Ethical Hacking
-                 • Web Security
-                 • Incident Response
-
-Current Goal    :
-Become a Professional DFIR &
-Cloud Security Engineer
-```
+Currently, I am also contributing as an **Undergraduate Cyber Security Research Assistant** under faculty supervision at Air University, where I participate in cybersecurity research activities and technical investigations.
 
 ---
 
-# 🚀 About Me
+## Current Focus
 
-✔ BS Computer Science Student at Air University Islamabad
-
-✔ Passionate about Cyber Security & Digital Forensics
-
-✔ Learning Cloud Security using AWS
-
-✔ Hands-on experience with Kali Linux
-
-✔ Active TryHackMe Learner
-
-✔ Interested in DFIR & Incident Response
-
-✔ Exploring Cloud Forensics
-
-✔ Building security-focused projects
-
-✔ Looking for Internship Opportunities
-
----
-
-# 🛡 Cyber Security Skills
-
-### Offensive Security
-
-- Ethical Hacking
-- Penetration Testing
-- Web Application Testing
-- Vulnerability Assessment
-- Reconnaissance
-- Information Gathering
-- Enumeration
-- OWASP Top 10
-
----
-
-### Digital Forensics
-
-- Evidence Collection
-- Windows Artifacts
-- Linux Fundamentals
-- Memory Analysis (Learning)
-- File System Analysis
-- Incident Response Basics
-
----
-
-### Networking
-
-- TCP/IP
-
-- OSI Model
-
-- Routing
-
-- Switching
-
-- NAT
-
-- DNS
-
-- HTTP
-
-- HTTPS
-
-- VLAN
-
-- Ports & Protocols
-
----
-
-# ☁ Cloud Security
-
-- AWS Fundamentals
-
-- IAM
-
-- EC2
-
-- S3
-
-- CloudTrail
-
-- VPC
-
-- Shared Responsibility Model
-
----
-
-# 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,flutter,dart,bash"/>
-
-</p>
-
----
-
-# ⚙ Operating Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
-
-</p>
-
----
-
-# 🧰 Security Toolbox
-
-| Tool | Purpose |
-|------|---------|
-| Burp Suite | Web Security Testing |
-| Nmap | Network Scanning |
-| Wireshark | Packet Analysis |
-| Metasploit | Exploitation Labs |
-| Kali Linux | Penetration Testing |
-| Git | Version Control |
-| GitHub | Portfolio & Projects |
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 WordPress Website Security Assessment
-
-✔ Reconnaissance
-
-✔ Burp Suite
-
-✔ HTTP Request Analysis
-
-✔ Attack Surface Mapping
-
-✔ Security Documentation
-
----
-
-## 🔹 TryHackMe Practical Labs
-
-✔ Linux
-
-✔ Networking
-
-✔ Enumeration
-
-✔ Metasploit
-
-✔ Wireshark
-
-✔ Web Security
-
----
-
-## 🔹 Inventory Management System
-
-Flutter
-
-Firebase
-
-CRUD Operations
-
-Cross Platform
-
----
-
-## 🔹 Attendance Management System
-
-Java
-
-OOP
-
-Desktop Application
-
----
-
-## 🔹 Book Review Portal
-
-HTML
-
-CSS
-
-JavaScript
-
-Responsive Design
-
----
-
-## 🔹 Kali Linux Research
-
-Security Tools
-
-Recon
-
-Network Testing
-
-Lab Practice
-
----
-
-# 🎯 Current Learning
-
-```text
-✔ AWS Security
-
-✔ Cloud Forensics
-
-✔ Digital Forensics
-
-✔ Incident Response
-
-✔ Malware Analysis
-
-✔ Python for Cyber Security
-```
-
----
-
-# 📌 Career Objective
-
-> Passionate Cyber Security enthusiast focused on Ethical Hacking,
-Digital Forensics and Cloud Security.
-
-> Seeking opportunities where I can apply my practical security skills,
-gain industry experience and contribute to real-world security projects.
-
----
-
-# 🔥 Motto
-
-> "Security is not a product. It is a continuous process."
-
----
-# 📜 Certifications
-
-| Certification | Organization | Status |
-|---------------|-------------|--------|
-| Certified Ethical Hacker (CEH) | Pearson | ✅ Completed |
-| Network Technician Career Path | Cisco Networking Academy | ✅ Completed |
-| Junior Cyber Defender | PKCERT Pakistan | ✅ Completed |
-| E-Office Endpoint Protection | PKCERT Pakistan | ✅ Completed |
-| Legal & Ethical Cyber Investigations | Starweaver | ✅ Completed |
-| Cyber Security: Digital Forensics | Coursera | ✅ Completed |
-| AI for Business Professionals | HP LIFE | ✅ Completed |
-
----
-
-# 🎓 Education
-
-## Bachelor of Science in Computer Science
-
-🏫 Air University Islamabad
-
-📅 Currently Enrolled
-
-### Major Interests
-
-- Cyber Security
-
-- Digital Forensics
+- Digital Forensics (DFIR)
 
 - Cloud Security
 
+- AWS
+
+- Incident Response
+
+- Python for Cyber Security
+
+- Security Research
+
+---
+
+## Technical Skills
+
+### Cyber Security
+
+- Web Application Security
+
+- Vulnerability Assessment
+
+- Information Gathering
+
+- Reconnaissance
+
+- Enumeration
+
+- Basic Penetration Testing
+
+- Network Security Fundamentals
+
+- Digital Forensics Fundamentals
+
+- Cloud Security Fundamentals
+
+---
+
+### Security Tools
+
+- Burp Suite
+
+- Nmap
+
+- Wireshark
+
+- Metasploit Framework
+
+- Kali Linux
+
+- Git
+
+- GitHub
+
+---
+
+### Programming
+
+- C++
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Python *(Currently Learning)*
+
+---
+
+### Operating Systems
+
+- Linux
+
+- Ubuntu
+
+- Windows
+
+---
+---
+
+# Professional Experience
+
+## Undergraduate Cyber Security Research Assistant
+**Air University Islamabad** *(Under Faculty Supervision)*
+
+**Present**
+
+- Contributing to cybersecurity research activities.
+- Assisting in literature review and technical documentation.
+- Supporting research related to Digital Forensics and Cloud Security.
+- Performing technical analysis and validating research findings.
+- Collaborating on academic cybersecurity projects.
+
+---
+
+# Featured Projects
+
+## WordPress Security Assessment
+
+Conducted a security assessment of a WordPress web application using Burp Suite and Kali Linux.
+
+**Highlights**
+
+- Information Gathering
+- Attack Surface Mapping
+- HTTP Request Analysis
+- Basic Vulnerability Assessment
+- Security Documentation
+
+---
+
+## TryHackMe Practical Labs
+
+Completed multiple practical cybersecurity labs covering networking, Linux, web security, enumeration and penetration testing fundamentals.
+
+**Topics**
+
+- Linux
+- Networking
+- Nmap
+- Burp Suite
+- Metasploit
+- Web Security
+- Enumeration
+- Privilege Escalation Basics
+
+---
+
+## Kali Linux Security Research
+
+Self-directed research focused on Kali Linux security tools and penetration testing workflow.
+
+**Activities**
+
+- Reconnaissance
+- Network Enumeration
+- Packet Analysis
+- Security Tool Exploration
+- Lab Documentation
+
+---
+
+## Book Review Portal
+
+Responsive web application developed using HTML, CSS and JavaScript.
+
+**Technologies**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# Certifications
+
+- Certified Ethical Hacker (CEH) — Pearson
+- Cisco Networking Academy — Network Technician Career Path
+- PKCERT Pakistan — Junior Cyber Defender
+- PKCERT Pakistan — E-Office Endpoint Protection
+- Legal & Ethical Cyber Investigations — Starweaver
+- Cyber Security: Digital Forensics — Coursera
+- AI for Business Professionals — HP LIFE
+
+---
+
+# Education
+
+## Air University Islamabad
+
+**Bachelor of Science in Computer Science**
+
+**Relevant Areas**
+
+- Cyber Security
+- Digital Forensics
+- Networking
+- Cloud Security
 - Software Development
 
 ---
 
-# 💼 Volunteering Experience
+# Learning Journey
 
-## Deputy Director Logistics
+Currently exploring practical cybersecurity through:
 
-Air University Islamic Society (AUIS)
-
-### Responsibilities
-
-✔ Event Planning
-
-✔ Team Coordination
-
-✔ Volunteer Management
-
-✔ Logistics Handling
-
-✔ Community Activities
-
-✔ Executive Coordination
+- AWS Cloud Security
+- Digital Forensics
+- Incident Response
+- Python for Security Automation
+- Cloud Forensics
+- Threat Detection
 
 ---
 
-# 📈 Cyber Security Journey
+# Career Objective
 
-```text
-Networking        ███████████████░░ 85%
-
-Linux             ██████████████░░░ 80%
-
-Web Security      ██████████████░░░ 80%
-
-Ethical Hacking   █████████████░░░░ 75%
-
-Digital Forensics ███████████░░░░░░ 65%
-
-Cloud Security    █████████░░░░░░░░ 55%
-
-Python            ████████░░░░░░░░░ 50%
-```
+Seeking opportunities in Cyber Security where I can strengthen my practical skills in Digital Forensics, Cloud Security and Security Operations while contributing to real-world security challenges and continuously expanding my technical expertise.
 
 ---
 
-# 🏆 GitHub Analytics
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
+---
 
-# 🏅 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Connect With Me
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📂 Featured Repositories
-
-⭐ Cloud Forensics Lab
-
-⭐ DFIR Notes
-
-⭐ Burp Suite Notes
-
-⭐ AWS Security Labs
-
-⭐ TryHackMe Writeups
-
-⭐ Networking Labs
-
-⭐ Python for Cyber Security
-
-⭐ Kali Linux Notes
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
 <a href="mailto:hayatzohaib443@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/zohaib-hayat-a13352347">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://tryhackme.com/p/ZohaibHayat">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 📫 Contact Information
+## Currently Learning
 
-📧 Email: **hayatzohaib443@gmail.com**
-
-📍 Islamabad, Pakistan
-
-💼 LinkedIn:
-https://linkedin.com/in/zohaib-hayat-a13352347
-
-🎯 TryHackMe:
-https://tryhackme.com/p/ZohaibHayat
+- Digital Forensics (DFIR)
+- Cloud Security (AWS)
+- Python for Security Automation
+- Incident Response
+- Cloud Forensics
 
 ---
 
-# 💡 Fun Facts
+## Goals for 2026
 
-```text
-🔐 Passionate about Digital Forensics
-
-☁ Exploring AWS Cloud Security
-
-🐧 Linux Enthusiast
-
-🧩 Love solving CTF Challenges
-
-📖 Always learning something new
-```
+- Build practical Digital Forensics projects
+- Develop Cloud Security labs using AWS
+- Publish cybersecurity research
+- Contribute to open-source security projects
+- Strengthen Python skills for security automation
 
 ---
 
-# 🚀 2026 Goals
+## Profile Views
 
-- Complete advanced AWS Security learning
-
-- Build Cloud Forensics Lab
-
-- Learn Memory Forensics
-
-- Learn Malware Analysis
-
-- Contribute to Open Source
-
-- Publish Security Research
-
-- Gain Industry Experience
-
----
-
-# 💬 Favourite Quote
-
-> "The quieter you become, the more you are able to hear."
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-Happy Hacking 💙
-
+<i>"Security is a continuous learning process."</i>
 </p>
 
