@@ -90,13 +90,15 @@ Currently, I am also contributing as an **Undergraduate Cyber Security Research 
 
 - Wireshark
 
+- Hidden Dir and Domain Finding Tools
+
 - Metasploit Framework
 
 - Kali Linux
 
-- Git
+- Malware Analysis Tools
 
-- GitHub
+- OSINT Tools
 
 ---
 
