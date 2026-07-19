@@ -248,18 +248,6 @@ Seeking opportunities in Cyber Security where I can strengthen my practical skil
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
@@ -279,14 +267,6 @@ Seeking opportunities in Cyber Security where I can strengthen my practical skil
 </p>
 
 ---
----
-
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
 ---
 
 ## Connect With Me
