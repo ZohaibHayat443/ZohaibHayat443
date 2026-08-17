@@ -248,27 +248,6 @@ Seeking opportunities in Cyber Security where I can strengthen my practical skil
 
 ---
 
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
----
-
 ## Connect With Me
 
 <p align="center">
