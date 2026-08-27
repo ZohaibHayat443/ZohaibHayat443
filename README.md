@@ -286,14 +286,6 @@ Seeking opportunities in Cyber Security where I can strengthen my practical skil
 
 ---
 
-## Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
 <i>"Security is a continuous learning process."</i>
 </p>
